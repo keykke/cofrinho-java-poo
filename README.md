@@ -26,4 +26,4 @@ O principal objetivo deste projeto foi aplicar na prática os pilares da Orienta
 ### Passo a Passo
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/cofrinho-java-poo.git](https://github.com/SEU_USUARIO/cofrinho-java-poo.git)
+   git clone https://github.com/keykke/cofrinho-java-poo.git
